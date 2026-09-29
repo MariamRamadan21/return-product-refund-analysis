@@ -23,7 +23,7 @@ A relational data model was designed using Fact and Dimension tables to support 
 * Designed the model to support analysis across products, categories, sales channels, return reasons, and dates.
 * Created a dedicated Date table for time-based analysis.
 
-![Data Model](./images/data%20model.pgn)
+![Data Model](./images/data%20model.png)
 
 ## 📊 Dashboard Analysis
 
