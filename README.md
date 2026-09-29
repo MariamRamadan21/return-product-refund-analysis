@@ -33,7 +33,7 @@ The dashboard provides insights into product returns and refunds through interac
 
 The Overview page provides a high-level view of return and refund performance, including key KPIs, return trends, return reasons, sales channels, and category-level analysis.
 
-![Overview](images/Overview.png)
+![Overview](./images/overview.png)
 
 ### Product Analysis
 
