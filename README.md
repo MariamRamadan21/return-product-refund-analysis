@@ -39,7 +39,7 @@ The Overview page provides a high-level view of return and refund performance, i
 
 The Product Analysis page provides a detailed view of product-level return and refund performance, helping identify products with higher return rates and refund amounts.
 
-![Product Analysis](images/Product%20Analysis.png)
+![Product Analysis](./images/Product%20Analysis.png)
 
 ## 🎯 Key Business Insights
 
