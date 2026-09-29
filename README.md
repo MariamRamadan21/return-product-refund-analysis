@@ -23,7 +23,7 @@ A relational data model was designed using Fact and Dimension tables to support 
 * Designed the model to support analysis across products, categories, sales channels, return reasons, and dates.
 * Created a dedicated Date table for time-based analysis.
 
-![Data Model](./images/data%20model.png)
+![Data Model](./images/data%20m0del.pgn)
 
 ## 📊 Dashboard Analysis
 
@@ -39,7 +39,7 @@ The Overview page provides a high-level view of return and refund performance, i
 
 The Product Analysis page provides a detailed view of product-level return and refund performance, helping identify products with higher return rates and refund amounts.
 
-![Product Analysis](./images/Product%20Analysis.png)
+![Product Analysis](./images/product%20analysis.png)
 
 ## 🎯 Key Business Insights
 
